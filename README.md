@@ -10,6 +10,7 @@ The model classifies images into one of **10 classes**, such as airplanes, cars,
 ## 📸 Dataset
 The project uses the **CIFAR-10 dataset**, which contains:
 - **60,000 images** (32x32 pixels, RGB)
+  
 - **10 classes**:  
   `Plane`, `Car`, `Bird`, `Cat`, `Deer`, `Dog`, `Frog`, `Horse`, `Ship`, `Truck`
 
